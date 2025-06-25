@@ -1,0 +1,16 @@
+.sidebar-filter {
+  width: 220px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+select,
+input[type='range'] {
+  width: 100%;
+  margin-top: 6px;
+}
